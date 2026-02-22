@@ -2,7 +2,7 @@
 
 **Last Updated:** February 22, 2026
 
-This privacy policy governs your use of the Quant.ai software application ("Application") created by Dan Ellsworth. The Application is a stock research and analysis app available on the Apple App Store and Google Play.
+This privacy policy governs your use of the Quant.ai software application ("Application") developed by Quant.ai. The Application is a stock research and analysis app available on the Apple App Store and Google Play.
 
 ## What information does the Application obtain and how is it used?
 
@@ -62,4 +62,4 @@ By using the Application, you are consenting to the collection and use of inform
 
 ## Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at danellsworth23@outlook.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at support.quantai@gmail.com.
