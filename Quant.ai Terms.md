@@ -2,7 +2,7 @@
 
 **Last Updated:** February 22, 2026
 
-These Terms of Service ("Terms") govern your use of the Quant.ai software application ("Application") created by Dan Ellsworth. By downloading, installing, or using the Application, you agree to be bound by these Terms.
+These Terms of Service ("Terms") govern your use of the Quant.ai software application ("Application") created by Quant.ai. By downloading, installing, or using the Application, you agree to be bound by these Terms.
 
 ## Use of the Application
 
@@ -40,7 +40,7 @@ While we strive to provide accurate and up-to-date information, we make no warra
 
 ## Limitation of Liability
 
-To the fullest extent permitted by applicable law, Quant.ai and its creator shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
+To the fullest extent permitted by applicable law, Quant.ai and its affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
 
 - Your use of or inability to use the Application
 - Any investment or financial decisions made based on information provided by the Application
@@ -69,4 +69,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 ## Contact Us
 
-If you have any questions about these Terms, please contact us at danellsworth23@outlook.com.
+If you have any questions about these Terms, please contact us at support.quantai@gmail.com.
